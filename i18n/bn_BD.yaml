@@ -88,7 +88,7 @@ backend:
         other: "No permission to update."
     rank:
       fail_to_meet_the_condition:
-        other: "Rank fail to meet the condition."
+        other: "Reputation fail to meet the condition."
     report:
       handle_failed:
         other: "Report handle failed."
@@ -135,7 +135,7 @@ backend:
       cannot_update_your_role:
         other: "You cannot modify your role."
       not_allowed_registration:
-        other: "Currently the site is not open for registration"
+        other: "Currently the site is not open for registration."
     config:
       read_config_failed:
         other: "Read config failed"
